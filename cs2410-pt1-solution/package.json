@@ -1,0 +1,24 @@
+{
+  "name": "temp",
+  "version": "0.0.0",
+  "description": "CS2410 Node.js Practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status": "^1.5.0"
+  },
+  "devDependencies": {
+    "async": "^3.2.0",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1",
+    "superagent": "^6.1.0"
+  }
+}
